@@ -1,3 +1,0 @@
-git add requirements.txt
-git commit -m "Add tabulate to requirements"
-git push
